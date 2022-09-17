@@ -22,3 +22,4 @@
 
 ![image](https://github.com/Ola-20/PowerBI-projects/blob/main/Monkeypox/default.JPG)
 
+![image](https://github.com/Ola-20/PowerBI_Projects/blob/main/Monkeypox/default.JPG)
