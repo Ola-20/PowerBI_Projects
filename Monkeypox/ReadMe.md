@@ -18,7 +18,7 @@
 
 •	Key Conclusion includes that:
   -	Number of hospitalised (44%) is less compared to not-hospitalised persons which gives an insight about the level of sickness caused by the virus
-  -	More males are affected by the virus compared to female
+  -	More males are affected compared to female
 
 ![image](https://github.com/Ola-20/PowerBI_Projects/blob/main/Monkeypox/default.JPG)
 
