@@ -16,4 +16,8 @@
 • Finally the project will be reviewed by stakeholders by collaboration via the power BI online platform and this can drive organisation business decisions
 
 
+Conclusion:
+This report provides immediate detailed insight with high degree of granularity to individual department, as well as the executives. Consequently, data guided decisions could be instantly arrived at and revenue and profit margin can be shored up.
+
+
 
