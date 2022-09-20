@@ -8,7 +8,7 @@
 •	Built dashboard in power BI from scratch that provide key insight on the fly
 
 
-!image(https://github.com/Ola-20/PowerBI_Projects/blob/main/AkraSalesInsight/revenueView.JPG)
+![image](https://github.com/Ola-20/PowerBI_Projects/blob/main/AkraSalesInsight/revenueView.JPG)
 
 
  
