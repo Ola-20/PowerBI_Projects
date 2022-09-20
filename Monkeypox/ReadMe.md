@@ -20,5 +20,5 @@
   -	Number of hospitalised (44%) is less compared to not-hospitalised persons which gives an insight about the level of sickness caused by the virus
   -	More males were affected compared to female
 
-![image](https://github.com/Ola-20/PowerBI_Projects/blob/main/Monkeypox/default.JPG)
+![image](https://github.com/Ola-20/PowerBI_Projects/blob/main/Monkeypox/Filtered%20Image.JPG)
 
