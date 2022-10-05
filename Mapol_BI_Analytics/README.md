@@ -1,4 +1,4 @@
-# Mapol Business Insight Analytics (Student's Project)
+# Mapol Business Insight Analytics
 
 •	This is an end-to-end Data analysis project that produced a report that was shared on the online power BI platform, which enable users to make a data informed decision
 
